@@ -1,5 +1,3 @@
-Here is the comprehensive, professional README and the final Git synchronization steps to close out the Nautilus ALB deployment. This documentation is designed to serve as a hand-off for the application team.
-
 🌐 AWS Infrastructure: Application Load Balancer
 Project: Nautilus Web Application Front-End
 1. Executive Summary
